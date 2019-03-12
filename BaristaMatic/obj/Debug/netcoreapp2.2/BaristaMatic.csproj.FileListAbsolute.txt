@@ -1,0 +1,11 @@
+/home/jboctor/Documents/solution/BaristaMatic/bin/Debug/netcoreapp2.2/BaristaMatic.deps.json
+/home/jboctor/Documents/solution/BaristaMatic/bin/Debug/netcoreapp2.2/BaristaMatic.runtimeconfig.json
+/home/jboctor/Documents/solution/BaristaMatic/bin/Debug/netcoreapp2.2/BaristaMatic.runtimeconfig.dev.json
+/home/jboctor/Documents/solution/BaristaMatic/bin/Debug/netcoreapp2.2/BaristaMatic.dll
+/home/jboctor/Documents/solution/BaristaMatic/bin/Debug/netcoreapp2.2/BaristaMatic.pdb
+/home/jboctor/Documents/solution/BaristaMatic/obj/Debug/netcoreapp2.2/BaristaMatic.csprojAssemblyReference.cache
+/home/jboctor/Documents/solution/BaristaMatic/obj/Debug/netcoreapp2.2/BaristaMatic.csproj.CoreCompileInputs.cache
+/home/jboctor/Documents/solution/BaristaMatic/obj/Debug/netcoreapp2.2/BaristaMatic.AssemblyInfoInputs.cache
+/home/jboctor/Documents/solution/BaristaMatic/obj/Debug/netcoreapp2.2/BaristaMatic.AssemblyInfo.cs
+/home/jboctor/Documents/solution/BaristaMatic/obj/Debug/netcoreapp2.2/BaristaMatic.dll
+/home/jboctor/Documents/solution/BaristaMatic/obj/Debug/netcoreapp2.2/BaristaMatic.pdb
