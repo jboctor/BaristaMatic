@@ -1,4 +1,0 @@
-/home/jboctor/Documents/solution/BaristaMatic/BaristaMatic.Tests/obj/Debug/netcoreapp2.2/BaristaMatic.Tests.csprojAssemblyReference.cache
-/home/jboctor/Documents/solution/BaristaMatic/BaristaMatic.Tests/obj/Debug/netcoreapp2.2/BaristaMatic.Tests.csproj.CoreCompileInputs.cache
-/home/jboctor/Documents/solution/BaristaMatic/BaristaMatic.Tests/obj/Debug/netcoreapp2.2/BaristaMatic.Tests.AssemblyInfoInputs.cache
-/home/jboctor/Documents/solution/BaristaMatic/BaristaMatic.Tests/obj/Debug/netcoreapp2.2/BaristaMatic.Tests.AssemblyInfo.cs
