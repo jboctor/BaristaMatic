@@ -2,7 +2,7 @@ using System;
 
 namespace BaristaMatic
 {
-    class Drink
+    public class Drink
     {
         private string name;
         private Tuple<Ingredient, int>[] ingredients;

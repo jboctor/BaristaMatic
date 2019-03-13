@@ -6,16 +6,16 @@ namespace BaristaMatic
     {
         static void Main(string[] args)
         {
-            BaristaMatic barista = new BaristaMatic();
-            barista.DisplayInventory();
-            barista.DisplayMenu();
+            BaristaMaticBot barista = new BaristaMaticBot();
+            Console.Write(barista.DisplayInventory());
+            Console.Write(barista.DisplayMenu());
             
             do {
                 HandleInput(Console.ReadLine(), barista);
             } while (true);
         }
 
-        static void HandleInput(string input, BaristaMatic barista)
+        static void HandleInput(string input, BaristaMaticBot barista)
         {
             switch (input.ToLower()) {
                 case "q":
@@ -30,15 +30,15 @@ namespace BaristaMatic
                 case "4":
                 case "5":
                 case "6":
-                    barista.MakeDrink(input);
+                    Console.WriteLine(barista.MakeDrink(input));
                     break;
                 default:
                     Console.WriteLine("Invalid selection: " + input);
                     break;
             }
 
-            barista.DisplayInventory();
-            barista.DisplayMenu();
+            Console.Write(barista.DisplayInventory());
+            Console.Write(barista.DisplayMenu());
         }
     }
 }

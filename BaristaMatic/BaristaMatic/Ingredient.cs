@@ -2,7 +2,7 @@ using System;
 
 namespace BaristaMatic
 {
-    class Ingredient
+    public class Ingredient
     {
         private string name;
         private Decimal cost;
